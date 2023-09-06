@@ -1,2 +1,2 @@
 # Chess project
-A Detailed World Chess Championship Analysis and Predictor
+I have competed in chess tournaments around the United States since I was 7 years old. For myself, chess was a way for me to showcase my unique artistic abilities combined with a cognitive challenge. Most of my greatest moments, worst days, and toughest lessons can be linked back to chess. The first time I was really able to relate to the usage of data science in my life and data analysis was through AI Chess engines and databases. I think it was only fitting that I create my own Data Science chess project and it was one of the most memorable and enjoyable experiences I have had in this field. Thank you!
